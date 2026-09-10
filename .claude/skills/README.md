@@ -45,3 +45,18 @@ from the upstream folder names.
 
 Most carry adjustable design dials (1–10) — `DESIGN_VARIANCE`, `MOTION_INTENSITY`,
 `VISUAL_DENSITY`. These skills are self-contained and need no MCP server.
+
+---
+
+# Emil Kowalski — Design & Animation Skills
+
+Animation and design-engineering skills, vendored from
+[emilkowalski/skills](https://github.com/emilkowalski/skills) (MIT, see
+`LICENSE-emilkowalski-skills`). Directory names match each skill's `name`.
+
+- **Core** — `emil-design-eng`, `apple-design`, `pick-ui-library`, `prototype`
+- **Animation** — `animate`, `animate-expo`, `review-animations`,
+  `improve-animations`, `find-animation-opportunities`, `animation-vocabulary`
+- **Libraries / native** — `ask-sonner`, `write-swift`
+
+Self-contained; no MCP server required.
